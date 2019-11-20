@@ -1,12 +1,14 @@
 import requests, json, time
 import pymongo
 import cassiopeia as cass
+from DBKEYS import user, passcode
+from RIOTAPIKEY import key
 
-RIOTAPIKEY = 'RGAPI-009f485d-0839-4b71-ab2b-17cc6df47565'
+RIOTAPIKEY = key
 
 # Database info
-DBUSER = "rileyabrahamson_ad"
-DBPASS = "Lucian44"
+DBUSER = user
+DBPASS = passcode
 mongoclient = pymongo.MongoClient("mongodb+srv://%s:%s@ndsu-csci479-5ri0h.mongodb.net/test?retryWrites=true&w=majority" % (DBUSER, DBPASS))
 db = mongoclient.frequentoflegends
 col = db.matches_championsonly
@@ -51,7 +53,7 @@ while successful_matches < 1000:
         }
 
         # Insert champion list into the database
-        col.insert_one(winning_match)
+        # col.insert_one(winning_match)
 
         # Increment counter
         successful_matches += 1
