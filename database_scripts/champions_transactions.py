@@ -20,6 +20,13 @@ RIOTAPIKEY = key
 cass.set_riot_api_key(RIOTAPIKEY)
 cass.set_default_region("NA")
 
+# FUNCTIONS
+
+# returns a key for any value
+def get_key(val): 
+    for key, value in my_dict.items(): 
+         if val == value: 
+             return key 
   
     return "key doesn't exist"
 
