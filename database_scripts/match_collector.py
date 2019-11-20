@@ -4,8 +4,6 @@ import cassiopeia as cass
 from DBKEYS import user, passcode
 from RIOTAPIKEY import key
 
-RIOTAPIKEY = key
-
 # Database info
 DBUSER = user
 DBPASS = passcode
@@ -14,6 +12,7 @@ db = mongoclient.frequentoflegends
 col = db.matches_championsonly
 
 # Cassioepeia info
+RIOTAPIKEY = key
 cass.set_riot_api_key(RIOTAPIKEY)
 cass.set_default_region("NA")
 
