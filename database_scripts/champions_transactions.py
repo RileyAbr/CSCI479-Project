@@ -1,4 +1,4 @@
-import requests, json
+s4ac import requests, json
 from collections import defaultdict
 import pymongo
 import cassiopeia as cass
@@ -23,8 +23,8 @@ cass.set_default_region("NA")
 # FUNCTIONS
 
 # returns a key for any value
-def get_key(val): 
-    for key, value in my_dict.items(): 
+def get_key(val, dict): 
+    for key, value in dict.items(): 
          if val == value: 
              return key 
   
@@ -57,7 +57,6 @@ for document in cursor.find(): #Can use .limit(n) to reduce for testing
 for match in winning_champs:
     win_transaction = [0] * number_of_champions
 
-    # Match[2] is the string names of the champions
     for champ in match.get('winning_champions'):
         if champ not in transaction_table_ids_lookup:
 
@@ -68,7 +67,7 @@ for match in winning_champs:
         
     winning_champs_transaction_table.append(win_transaction)
 
-test = open('win_transactions.txt', 'a')
+test = open('win_transactions.txt', 'w')
 print(transaction_table_ids_lookup, file=test)
 for match in winning_champs_transaction_table:
     print(match, file=test)

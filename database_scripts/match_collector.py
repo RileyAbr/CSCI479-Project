@@ -37,7 +37,7 @@ while successful_matches < 1000:
     match = cass.get_match(match_id)
     
     # Check if match_id is valid
-    if match.exists and match.mode.value == "CLASSIC" and match.map.id == 11:
+    if match.exists and match.mode.value == "CLASSIC" and match.map.id == 11: #filter out bot matches
         # For Blue Team wins
         if match.blue_team.win:
             winning_champions = get_winning_champions(match.blue_team)
