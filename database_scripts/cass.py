@@ -1,7 +1,11 @@
 import time, random
 import cassiopeia as cass
+from DBKEYS import user, passcode
+from RIOTAPIKEY import key
 
-cass.set_riot_api_key("RGAPI-186a54d9-6a8e-42bf-be03-7eb6ac4aaeb3")  # This overrides the value set in your configuration/settings.
+# Cassioepeia info
+RIOTAPIKEY = key
+cass.set_riot_api_key(RIOTAPIKEY)
 cass.set_default_region("NA")
 
 summoner = cass.get_summoner(name="DBoy9")

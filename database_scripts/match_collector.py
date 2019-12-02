@@ -1,4 +1,6 @@
-import requests, json, time
+import requests
+import json
+import time
 import pymongo
 import cassiopeia as cass
 from DBKEYS import user, passcode
@@ -7,7 +9,8 @@ from RIOTAPIKEY import key
 # Database info
 DBUSER = user
 DBPASS = passcode
-mongoclient = pymongo.MongoClient("mongodb+srv://%s:%s@ndsu-csci479-5ri0h.mongodb.net/test?retryWrites=true&w=majority" % (DBUSER, DBPASS))
+mongoclient = pymongo.MongoClient(
+    "mongodb+srv://%s:%s@ndsu-csci479-5ri0h.mongodb.net/test?retryWrites=true&w=majority" % (DBUSER, DBPASS))
 db = mongoclient.frequentoflegends
 win_champs_col = db.winning_champs
 loss_champs_col = db.losing_champs
@@ -34,13 +37,14 @@ match_id = 3213009682
 # Loop counter that only increments when a match exists
 successful_matches = 0
 # DATABASE INSERTIONS
-while successful_matches < 1000 - 814:
+while successful_matches < 1000:
     winning_champions = []
     losing_champions = []
     match = cass.get_match(match_id)
-    
+
     # Check if match_id is valid
-    if match.exists and match.mode.value == "CLASSIC" and match.map.id == 11: #filter out bot matches
+    # filter out bot matches
+    if match.exists and match.mode.value == "CLASSIC" and match.map.id == 11 and (match.queue.id in (400, 420, 430, 440)):
         # Collect teams
         blue_team = get_champions(match.blue_team)
         red_team = get_champions(match.red_team)
@@ -80,6 +84,6 @@ while successful_matches < 1000 - 814:
         if(successful_matches % 200 == 0):
             print("Pausing to avoid rate limit...")
             time.sleep(126)
-        
+
     match_id += 1
-    time.sleep(0.5)
+    time.sleep(1)
