@@ -85,13 +85,13 @@ for match in losing_champs:
     losing_champs_transaction_table.append(loss_transaction)
 
 win_file = open('win_transactions.txt', 'w')
-print(*transaction_table_ids_lookup, file=win_file)
+print(*[champ.replace(' ', '') for champ in transaction_table_ids_lookup], file=win_file)
 for match in winning_champs_transaction_table:
     print(*match, file=win_file)
 win_file.close()
 
 loss_file = open('loss_transactions.txt', 'w')
-print(*transaction_table_ids_lookup, file=loss_file)
+print(*[champ.replace(' ', '') for champ in transaction_table_ids_lookup], file=loss_file)
 for match in losing_champs_transaction_table:
     print(*match, file=loss_file)
 loss_file.close()
