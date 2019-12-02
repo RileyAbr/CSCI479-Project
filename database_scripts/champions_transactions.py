@@ -33,7 +33,7 @@ def get_key(val, dict):
 
 
 # No. of champions currently in game
-number_of_champions = len(cass.get_champions())
+number_of_champions = 146 #len(cass.get_champions())
 
 # Transaction table of all champions by matches played. The format of the table is as follows:
 #           Champ1 | Champ2 | Champ3| ...
@@ -85,13 +85,13 @@ for match in losing_champs:
     losing_champs_transaction_table.append(loss_transaction)
 
 win_file = open('win_transactions.txt', 'w')
-print(transaction_table_ids_lookup, file=win_file)
+print(*transaction_table_ids_lookup, file=win_file)
 for match in winning_champs_transaction_table:
-    print(match, file=win_file)
+    print(*match, file=win_file)
 win_file.close()
 
 loss_file = open('loss_transactions.txt', 'w')
-print(transaction_table_ids_lookup, file=loss_file)
+print(*transaction_table_ids_lookup, file=loss_file)
 for match in losing_champs_transaction_table:
-    print(match, file=loss_file)
+    print(*match, file=loss_file)
 loss_file.close()
