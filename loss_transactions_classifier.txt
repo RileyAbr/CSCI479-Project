@@ -1,0 +1,1000 @@
+Volibear Thresh Vladimir Pantheon Darius -1.0
+Volibear Thresh Vladimir Pantheon Darius -1.0
+Volibear Thresh Vladimir Pantheon Darius -1.0
+Rengar Kai'Sa Veigar Vi Blitzcrank -1.0
+Nidalee Nocturne Cassiopeia Taric Galio -1.0
+Heimerdinger Senna Sivir Ryze Wukong -1.0
+Tryndamere Annie Xayah Qiyana Ekko -1.0
+Akali Blitzcrank Olaf Quinn Vayne -1.0
+Lux Gnar Rammus Yasuo Vayne -1.0
+Senna Galio Teemo Ezreal Zed -1.0
+Malphite Leona Miss Fortune Zed Zac -1.0
+Kayn Nasus Twitch Yuumi Renekton -1.0
+Akali Graves Volibear Ahri Jinx -1.0
+Anivia Ornn Jinx Kha'Zix Thresh -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Syndra Darius Ashe Soraka Shyvana -1.0
+Senna Ekko Dr. Mundo Swain Gangplank -1.0
+Ashe Trundle Ryze Lux Cho'Gath -1.0
+Swain Malzahar Jhin Aatrox Garen -1.0
+Udyr Sylas Vladimir Blitzcrank Miss Fortune -1.0
+Olaf Galio Kindred Riven Pyke -1.0
+Vayne Olaf Ryze Zed Brand -1.0
+Yorick Miss Fortune Hecarim Soraka Zed -1.0
+Miss Fortune Trundle Ryze Lux Renekton -1.0
+Leona Warwick Akali Lucian Xayah -1.0
+Lee Sin Veigar Yasuo Jhin Swain -1.0
+Katarina Darius Xin Zhao Ezreal Urgot -1.0
+Sona Zyra Dr. Mundo Rammus Jhin -1.0
+Lee Sin Miss Fortune Shyvana Rengar Renekton -1.0
+Senna Thresh Nocturne Twisted Fate Cho'Gath -1.0
+Yasuo Senna Pantheon Kayn Lucian -1.0
+Senna Miss Fortune Urgot Ryze Master Yi -1.0
+Sejuani Draven Thresh Heimerdinger Viktor -1.0
+Twitch Vladimir Yasuo Sivir Janna -1.0
+Kayn Senna Draven Varus Cho'Gath -1.0
+Kai'Sa Annie Morgana Sylas Yasuo -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Senna Shaco Orianna Ezreal Aatrox -1.0
+Qiyana Veigar Miss Fortune Ekko Shen -1.0
+Miss Fortune Trundle Ryze Lux Renekton -1.0
+Kennen Twisted Fate Caitlyn Diana Sylas -1.0
+Lucian Poppy Senna Nunu & Willump Anivia -1.0
+Kai'Sa Rengar Xerath Kled Sona -1.0
+Talon Senna Rammus Ashe Fizz -1.0
+Ivern Singed Senna Sylas Kayn -1.0
+Kindred Kayle Irelia Senna Brand -1.0
+Jinx Nocturne Lux Pyke Nasus -1.0
+Ryze Shaco Blitzcrank Veigar Karma -1.0
+Kled Twitch Lucian Galio Yasuo -1.0
+Thresh Caitlyn Ryze Dr. Mundo Hecarim -1.0
+Senna Lux Warwick Singed Miss Fortune -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kayn Aurelion Sol Lucian Pyke Ornn -1.0
+Fiora Vi Draven Thresh Yasuo -1.0
+Lulu Ryze Hecarim Jinx Jayce -1.0
+Kai'Sa Udyr Shen Riven Vladimir -1.0
+Miss Fortune Udyr Ryze Nasus Morgana -1.0
+Maokai Yasuo Janna Jax Kai'Sa -1.0
+Gangplank Irelia Twitch Kha'Zix Nautilus -1.0
+Teemo Heimerdinger Trundle Ezreal Leona -1.0
+Veigar Lux Aatrox Varus Qiyana -1.0
+Miss Fortune Sion Annie Nami Cho'Gath -1.0
+Yasuo Varus Blitzcrank Teemo Amumu -1.0
+Jinx Diana Brand Lux Amumu -1.0
+Thresh Zoe Volibear Caitlyn Renekton -1.0
+Cho'Gath Amumu Zed Senna Kai'Sa -1.0
+Malphite Qiyana Pyke Warwick Ashe -1.0
+Jinx Talon Senna Xin Zhao Mordekaiser -1.0
+Lux Qiyana Illaoi Draven Graves -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Jinx Master Yi Vladimir Lux Volibear -1.0
+Darius Kindred Thresh Kha'Zix Senna -1.0
+LeBlanc Rengar Thresh Nidalee Kai'Sa -1.0
+Katarina Pyke Tristana Vladimir Pantheon -1.0
+Trundle Irelia Nautilus Yasuo Caitlyn -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Taric Twitch Aatrox Kassadin Jax -1.0
+Karma Heimerdinger Aatrox Gragas Tryndamere -1.0
+Yuumi Rengar Ryze Caitlyn Yasuo -1.0
+Akali Miss Fortune Renekton Elise Tryndamere -1.0
+Ashe Yasuo Shaco Nami Senna -1.0
+Vayne Lee Sin Mordekaiser Talon Yuumi -1.0
+Jinx Master Yi Zed Pyke Garen -1.0
+Veigar Jhin Garen Zyra Jax -1.0
+Zac Yasuo Heimerdinger Ezreal Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Senna Varus Diana Garen Kayn -1.0
+Miss Fortune Senna Ornn Xerath Kayn -1.0
+Gangplank Ashe Jinx Rengar Ryze -1.0
+Leona Kai'Sa Kayn Akali Gnar -1.0
+Kennen Kog'Maw Graves Miss Fortune Sona -1.0
+Miss Fortune Shyvana Ryze Zyra Blitzcrank -1.0
+Lee Sin Ezreal Ornn Ahri Kog'Maw -1.0
+Tristana Kha'Zix Urgot Senna Talon -1.0
+Mordekaiser Dr. Mundo Katarina Leona Ezreal -1.0
+Nami Kayn Quinn Syndra Caitlyn -1.0
+Volibear Brand Pantheon Heimerdinger Ezreal -1.0
+Jhin Senna Udyr Cho'Gath Lulu -1.0
+Draven Leona Mordekaiser Zed Qiyana -1.0
+Zed Vel'Koz Teemo Evelynn Caitlyn -1.0
+Senna Yasuo Warwick Qiyana Jax -1.0
+Jinx Twisted Fate Cho'Gath Kog'Maw Graves -1.0
+Diana Kai'Sa Darius Ryze Malzahar -1.0
+Leona Ashe Yasuo Teemo Dr. Mundo -1.0
+Yasuo Jarvan IV Kayle Dr. Mundo Ashe -1.0
+Talon Teemo Blitzcrank Warwick Miss Fortune -1.0
+Swain Jhin Master Yi Yasuo Katarina -1.0
+Kayn Akali Mordekaiser Twitch Pyke -1.0
+Sona Ashe Olaf Veigar Garen -1.0
+Jhin LeBlanc Pyke Twitch Fiora -1.0
+Renekton Master Yi Miss Fortune Syndra Kog'Maw -1.0
+Sivir Sion Vladimir Zyra Rammus -1.0
+Renekton Vladimir Pyke Hecarim Caitlyn -1.0
+Riven Veigar Lee Sin Draven Pyke -1.0
+Xin Zhao Heimerdinger Vel'Koz Nautilus Riven -1.0
+Jax Swain Master Yi Sylas Caitlyn -1.0
+Garen Caitlyn Yasuo Kayn Blitzcrank -1.0
+Udyr Yasuo Aatrox Jinx Senna -1.0
+Karthus Lissandra Miss Fortune Garen Thresh -1.0
+Malphite Kai'Sa Vladimir Thresh Singed -1.0
+Zoe Kha'Zix Lucian Camille Leona -1.0
+Amumu Renekton Zoe Ashe Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Nocturne Ashe Wukong Caitlyn Mordekaiser -1.0
+Vayne Blitzcrank Irelia Akali Hecarim -1.0
+Miss Fortune Graves Qiyana Tryndamere Thresh -1.0
+Katarina Olaf Yuumi Ashe Renekton -1.0
+Gnar Malzahar Kayn Yuumi Senna -1.0
+Vel'Koz Garen Aatrox Warwick Ezreal -1.0
+Tryndamere Vayne Kennen Lux Cassiopeia -1.0
+Quinn Volibear Orianna Soraka Xayah -1.0
+Ahri Kog'Maw Nocturne Riven Swain -1.0
+Camille Kai'Sa Ekko Irelia Leona -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kayle Udyr Azir Leona Caitlyn -1.0
+Vel'Koz Malphite Sylas Lucian Lee Sin -1.0
+Nami Galio Thresh Jinx Taliyah -1.0
+Ekko Jax Tristana Pyke Master Yi -1.0
+Miss Fortune Rammus Zoe Singed Garen -1.0
+Vayne Akali Rengar Brand Cho'Gath -1.0
+Nocturne Kai'Sa Nautilus Brand Lucian -1.0
+Trundle Zac Twisted Fate Rengar Caitlyn -1.0
+Yasuo Maokai Ekko Akali Jayce -1.0
+Kindred Vladimir Riven Senna Janna -1.0
+Yuumi Jax Lux Xayah Master Yi -1.0
+Mordekaiser Vi Swain Jhin Brand -1.0
+Ashe Trundle Annie Taric Leona -1.0
+LeBlanc Draven Janna Yorick Kayn -1.0
+Karthus Akali Kai'Sa Brand Garen -1.0
+Janna Maokai Lux Xin Zhao Caitlyn -1.0
+Ekko Jinx Galio Anivia Ryze -1.0
+Teemo Garen Ziggs Rakan Draven -1.0
+Twitch Tristana Annie Neeko Garen -1.0
+Vladimir Tristana Kennen Soraka Zed -1.0
+Rakan Kayle Kai'Sa Talon Qiyana -1.0
+Bard Tristana Tryndamere Darius Talon -1.0
+Ekko Nidalee Talon Yuumi Heimerdinger -1.0
+Jinx Galio Yuumi Jayce Zac -1.0
+Warwick Darius Jinx Senna Morgana -1.0
+Sivir Nocturne Veigar Zilean Volibear -1.0
+Elise Anivia Gnar Ashe Master Yi -1.0
+Jayce Morgana Jhin Talon Trundle -1.0
+Kayn Riven Zed Thresh Caitlyn -1.0
+Ornn Swain Mordekaiser Xayah Ekko -1.0
+Jax Yasuo Jhin Thresh Xin Zhao -1.0
+Zed Jhin Trundle Udyr Blitzcrank -1.0
+Ezreal Taric Lux Olaf Malphite -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ornn Karthus Lux Jinx Riven -1.0
+Lee Sin Karma Vayne Malzahar Yorick -1.0
+Vladimir Rengar Lux Yasuo Garen -1.0
+Vladimir Rengar Lux Yasuo Garen -1.0
+Lee Sin Jhin Karma Fizz Gnar -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Twitch Darius Master Yi Senna Fiddlesticks -1.0
+Ashe Yasuo Lee Sin Cassiopeia Janna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Rakan Orianna Xayah Rammus Shyvana -1.0
+Fiora Miss Fortune Zoe Nautilus Rek'Sai -1.0
+Irelia Gnar Akali Leona Jhin -1.0
+Rammus Nami Kled Ryze Jinx -1.0
+Malphite Olaf Nasus Talon Jhin -1.0
+Miss Fortune Ryze Morgana Trundle Teemo -1.0
+Yasuo Warwick Tahm Kench Jinx Senna -1.0
+Alistar Miss Fortune Talon Ekko Tryndamere -1.0
+Aurelion Sol Senna Jinx Garen Elise -1.0
+Thresh Vayne Cho'Gath Nidalee Ahri -1.0
+Vladimir LeBlanc Nunu & Willump Senna Nami -1.0
+Zed Miss Fortune Yasuo Jax Veigar -1.0
+Twitch Vayne Renekton Ziggs Janna -1.0
+Annie Lucian Zac Shyvana Kayle -1.0
+Tristana Trundle Ziggs Zilean Dr. Mundo -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Jinx Swain Rengar Qiyana Teemo -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ryze Nocturne Vayne Lucian Anivia -1.0
+Zyra Miss Fortune Tryndamere Master Yi Cassiopeia -1.0
+Shaco Kayle Jhin Master Yi Kassadin -1.0
+Sona Lissandra Ryze Ezreal Udyr -1.0
+Malzahar Leona Nocturne Jinx Nunu & Willump -1.0
+Ziggs Master Yi Qiyana Ashe Tryndamere -1.0
+Poppy Zilean Kai'Sa Malphite Orianna -1.0
+Riven Camille Akali Soraka Ezreal -1.0
+Lee Sin Azir Braum Kalista Illaoi -1.0
+Miss Fortune Leona Brand Teemo Kayn -1.0
+Ornn Vayne Evelynn Lissandra Tryndamere -1.0
+Veigar Pyke Xin Zhao Xayah Teemo -1.0
+Ashe Trundle Ryze Cho'Gath Taric -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kog'Maw Master Yi Annie Nami Dr. Mundo -1.0
+Fiora Master Yi Bard Caitlyn Diana -1.0
+Vayne Nasus Brand Taric Malphite -1.0
+Nautilus Lucian Garen Xin Zhao Aurelion Sol -1.0
+Sivir Sion Morgana Ashe Dr. Mundo -1.0
+Tryndamere Zed Vayne Morgana Lee Sin -1.0
+Talon Katarina Draven Thresh Trundle -1.0
+Singed Miss Fortune Senna Hecarim Fizz -1.0
+Malphite Soraka Fizz Jhin Kayle -1.0
+Lux Nunu & Willump Soraka Vayne Yasuo -1.0
+Master Yi Teemo Rakan Zyra Warwick -1.0
+Lux Renekton Wukong Tristana Nocturne -1.0
+Miss Fortune Volibear Irelia Lux Akali -1.0
+Diana Fiora Yasuo Poppy Nami -1.0
+Kled Thresh Senna Cassiopeia Olaf -1.0
+Yasuo Blitzcrank Caitlyn Qiyana Tryndamere -1.0
+Sejuani Jhin Jax Yuumi Lux -1.0
+Xayah Senna Ivern Yasuo Ryze -1.0
+Irelia Wukong Miss Fortune Cho'Gath Ziggs -1.0
+Pantheon Senna Qiyana Kai'Sa Singed -1.0
+Kayn Sylas Jinx Jayce Yorick -1.0
+Jhin Thresh Jax Sion Katarina -1.0
+Graves Jax Caitlyn Garen Zed -1.0
+Miss Fortune Master Yi Kog'Maw Graves Jinx -1.0
+Ashe Twisted Fate Lucian Udyr Volibear -1.0
+Miss Fortune Zyra Akali Teemo Renekton -1.0
+Jinx Veigar Yasuo Nunu & Willump Senna -1.0
+Lucian Master Yi Morgana Akali Teemo -1.0
+Ekko Urgot Ezreal Senna Shaco -1.0
+LeBlanc Darius Qiyana Morgana Tristana -1.0
+Hecarim Senna Tahm Kench Jinx Yasuo -1.0
+Lucian Trundle Ziggs Morgana Volibear -1.0
+Jax Rengar Lee Sin Miss Fortune Rumble -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Lucian Shyvana Teemo Zyra Malphite -1.0
+Lux Lee Sin Ryze Lucian Morgana -1.0
+Katarina Master Yi Sona Darius Sivir -1.0
+Jhin Pyke Kindred Cho'Gath Zed -1.0
+Ashe Xerath Dr. Mundo Darius Talon -1.0
+Mordekaiser Vel'Koz Teemo Yasuo Evelynn -1.0
+Galio Kayn Camille Tristana Neeko -1.0
+Ashe Warwick Ryze Lux Leona -1.0
+Master Yi Kai'Sa Lulu Zed Mordekaiser -1.0
+Vi Viktor Garen Caitlyn Vel'Koz -1.0
+Elise Jax Sona Ahri Vayne -1.0
+Darius Leona Tryndamere Twisted Fate Ezreal -1.0
+Tristana Jhin Vi Zed Tahm Kench -1.0
+Lux Twisted Fate Kalista Garen Xin Zhao -1.0
+Vladimir Thresh Poppy Ekko Kennen -1.0
+Talon Nasus Volibear Vi Yuumi -1.0
+Ashe Trundle Annie Lux Cho'Gath -1.0
+Renekton Xerath Miss Fortune Senna Nunu & Willump -1.0
+Lee Sin Poppy Xayah Rakan Irelia -1.0
+Master Yi Mordekaiser Kennen Kayn Cho'Gath -1.0
+Ashe Warwick Ryze Lux Cho'Gath -1.0
+Nocturne Singed Mordekaiser Senna Lee Sin -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Jinx Kog'Maw Akali Brand Swain -1.0
+Jhin Vladimir Shen LeBlanc Blitzcrank -1.0
+Kai'Sa Jinx Yasuo Renekton Shyvana -1.0
+Thresh Ashe Wukong Diana Ivern -1.0
+Malphite Cho'Gath Caitlyn Jinx Volibear -1.0
+Xayah Bard Yasuo Nasus Lee Sin -1.0
+Ezreal Akali Thresh Gangplank Rengar -1.0
+Master Yi Miss Fortune Graves Teemo Mordekaiser -1.0
+Vayne Sion Brand Taric Malphite -1.0
+Teemo Kayn Pyke Cho'Gath Caitlyn -1.0
+Senna Jhin Mordekaiser Qiyana Warwick -1.0
+Zed Gnar Thresh Jhin Graves -1.0
+Senna Riven LeBlanc Ornn Rek'Sai -1.0
+Nautilus Shaco Qiyana Jinx Senna -1.0
+Diana Renekton Fizz Morgana Jhin -1.0
+Veigar Tristana Kindred Kai'Sa Garen -1.0
+Thresh Rengar Qiyana Twitch Ornn -1.0
+Kai'Sa Nautilus Shaco Fiora Katarina -1.0
+Caitlyn Diana Nautilus Hecarim Tryndamere -1.0
+Kayn Pantheon Yasuo Xayah Rakan -1.0
+Darius Ekko Renekton Vayne Blitzcrank -1.0
+Nautilus Xayah Tryndamere Kindred Yasuo -1.0
+Kayn Braum Galio Lucian Qiyana -1.0
+Vladimir Senna Yasuo Lee Sin Karma -1.0
+Yasuo Miss Fortune Diana Master Yi Leona -1.0
+Irelia Leona Lee Sin Lucian Fiora -1.0
+Diana Blitzcrank Ashe Zed Darius -1.0
+Rakan Kha'Zix Miss Fortune Cho'Gath Qiyana -1.0
+Zyra Diana Caitlyn Zed Vayne -1.0
+Rek'Sai Senna Katarina Jhin Diana -1.0
+Kayn Draven Pantheon Leona Ekko -1.0
+Olaf Nocturne Veigar Soraka Alistar -1.0
+Vi Ahri Kai'Sa Miss Fortune Swain -1.0
+Miss Fortune Trundle Ryze Taric Renekton -1.0
+Sona Qiyana Talon Ashe Xin Zhao -1.0
+Caitlyn Akali Fizz Bard Nautilus -1.0
+Yasuo Warwick Nasus Veigar Pyke -1.0
+Alistar Master Yi Vel'Koz Camille Vayne -1.0
+Lucian Akali Karma Heimerdinger Dr. Mundo -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kai'Sa Azir Volibear Alistar Renekton -1.0
+Jinx Zed Kayn Morgana Ryze -1.0
+Ashe Soraka Riven Fizz Amumu -1.0
+Alistar Xayah Yasuo Katarina Udyr -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Wukong Vi Yasuo Swain Miss Fortune -1.0
+Sylas Olaf Riven Ezreal Leona -1.0
+Pyke Nasus Neeko Qiyana Jinx -1.0
+Qiyana Pantheon Blitzcrank Kai'Sa Ekko -1.0
+Senna Lucian Jinx Singed Nocturne -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Qiyana Syndra Nautilus Warwick Riven -1.0
+Urgot Pyke Miss Fortune Kayn Syndra -1.0
+Soraka Zed Mordekaiser Jinx Amumu -1.0
+Nautilus Akali Ahri Ezreal Warwick -1.0
+Kayn Zoe Varus Senna Heimerdinger -1.0
+Ashe Ryze Nunu & Willump Soraka Brand -1.0
+Pyke Miss Fortune Gragas Renekton Yasuo -1.0
+Miss Fortune Akali Vladimir Ekko Mordekaiser -1.0
+Caitlyn Yasuo Mordekaiser Janna Darius -1.0
+Talon Maokai Kai'Sa Jax Pantheon -1.0
+Garen Swain Ryze Graves Ashe -1.0
+Nidalee Ryze Kai'Sa Morgana Teemo -1.0
+Ekko Lee Sin Darius Pyke Sivir -1.0
+Miss Fortune Senna Qiyana Zyra Master Yi -1.0
+Senna Ekko Olaf Lucian Aatrox -1.0
+Jhin Mordekaiser Thresh Qiyana Diana -1.0
+Evelynn Qiyana Nami Ryze Ashe -1.0
+Volibear Nasus Caitlyn Viktor Senna -1.0
+Xin Zhao Diana Yasuo Malphite Jinx -1.0
+Yasuo Ekko Senna Caitlyn Leona -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Riven Draven Veigar Cho'Gath Viktor -1.0
+Yasuo Kha'Zix Heimerdinger Vayne Sona -1.0
+Jinx Kog'Maw Miss Fortune Darius Graves -1.0
+Senna Vayne Olaf Ahri Cho'Gath -1.0
+Annie Senna Caitlyn Kha'Zix Nautilus -1.0
+Twitch Volibear Shyvana LeBlanc Gangplank -1.0
+Kayn Orianna Ornn Morgana Jhin -1.0
+Riven Jinx Pyke Morgana Rek'Sai -1.0
+Vayne Thresh Kayn Qiyana Ryze -1.0
+Yasuo Senna Illaoi Karthus Zyra -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Senna Katarina Warwick Kai'Sa Teemo -1.0
+Renekton Veigar Draven Thresh Nocturne -1.0
+Ashe Galio Ziggs Morgana Blitzcrank -1.0
+Olaf Vayne Soraka Corki Teemo -1.0
+Karma Tryndamere Kayn Jinx Katarina -1.0
+Yasuo Viktor Hecarim Swain Ryze -1.0
+Pyke Aatrox Qiyana Ryze Jinx -1.0
+Teemo Heimerdinger Caitlyn Shaco Lux -1.0
+Ekko Blitzcrank Jhin Malphite Dr. Mundo -1.0
+Mordekaiser Viktor Pyke Ashe Twitch -1.0
+Mordekaiser Rakan Qiyana Kayn Xayah -1.0
+Qiyana Nidalee Teemo Talon Renekton -1.0
+Yasuo Jhin Taric Volibear Renekton -1.0
+Vi Yasuo Mordekaiser Senna Jinx -1.0
+Vladimir Kayle Singed Miss Fortune Morgana -1.0
+Lucian Amumu Mordekaiser Heimerdinger Senna -1.0
+Shaco Caitlyn Irelia Sylas Olaf -1.0
+Yuumi Lee Sin Mordekaiser Kai'Sa Akali -1.0
+Brand Malzahar Ekko Ezreal Nasus -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Fizz Zyra Heimerdinger Kayle Senna -1.0
+Caitlyn Ekko Qiyana Camille Brand -1.0
+Yasuo Shyvana Vladimir Vel'Koz Lucian -1.0
+Caitlyn Senna Master Yi Garen Shen -1.0
+Teemo Miss Fortune Blitzcrank Qiyana Master Yi -1.0
+Master Yi Volibear Soraka Kog'Maw Annie -1.0
+Caitlyn Nami Karthus Riven Jarvan IV -1.0
+Miss Fortune Tryndamere Viktor Thresh Ivern -1.0
+Miss Fortune Graves Kog'Maw Master Yi Jinx -1.0
+Tryndamere Zed Volibear Lucian Karma -1.0
+Lucian Wukong Annie Tristana Garen -1.0
+Qiyana Zyra Ashe Gragas Singed -1.0
+Caitlyn Thresh Irelia Ziggs Rammus -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Zyra Jinx Lee Sin Annie Nasus -1.0
+Xayah Zed Nautilus Elise Cho'Gath -1.0
+Malphite Ezreal Rumble Talon Kha'Zix -1.0
+Ahri Nami Nasus Jhin Zac -1.0
+Zyra Ahri Senna Master Yi Mordekaiser -1.0
+Lux Master Yi Darius Lucian Pantheon -1.0
+Darius Warwick Taliyah Heimerdinger Tahm Kench -1.0
+Yasuo Karthus Rumble Senna Irelia -1.0
+Ashe Lux Talon Trundle Ryze -1.0
+Morgana Tristana Sivir Miss Fortune Lux -1.0
+Kai'Sa Nautilus Ekko Yasuo Teemo -1.0
+Tryndamere Nunu & Willump Jhin Zed Zyra -1.0
+Ryze Vayne Senna Lucian Rengar -1.0
+Kha'Zix Varus Nasus Sion Irelia -1.0
+Senna Ryze Taliyah Vayne Tristana -1.0
+Nocturne Miss Fortune Yasuo Teemo Lux -1.0
+Xayah Lux Singed Senna Rammus -1.0
+Ashe Gangplank Warwick Soraka Qiyana -1.0
+Talon Yasuo Vel'Koz Senna Nunu & Willump -1.0
+Lux Riven Nocturne Zoe Senna -1.0
+Rumble Senna Jax Illaoi Rakan -1.0
+Senna Graves Nautilus Jayce Neeko -1.0
+Teemo Pyke Lee Sin Ashe Akali -1.0
+Senna Singed Zed Master Yi Pyke -1.0
+Hecarim Lulu Akali Riven Vayne -1.0
+Qiyana Zyra Warwick Irelia Ashe -1.0
+Kayn Ashe Veigar Senna Fiora -1.0
+Rumble Yasuo Heimerdinger Kennen Shaco -1.0
+Rek'Sai Tristana Kayle Poppy Quinn -1.0
+Miss Fortune Warwick Ryze Lux Leona -1.0
+Jinx Warwick Yuumi Malphite Akali -1.0
+Lux Zed Master Yi Ashe Ahri -1.0
+Rakan Sion Xayah Warwick Nasus -1.0
+Nami Ryze Ekko Garen Caitlyn -1.0
+Hecarim Darius Caitlyn Lux Irelia -1.0
+Shen Rengar Varus Fiddlesticks Lissandra -1.0
+Udyr Lucian Lux Galio Kled -1.0
+Brand Master Yi Qiyana Zyra Ashe -1.0
+Yasuo Swain Cho'Gath Ekko Warwick -1.0
+Nunu & Willump Qiyana Shen Swain Caitlyn -1.0
+Nautilus Udyr Kai'Sa Katarina Qiyana -1.0
+Senna Kha'Zix Xayah Nocturne Cho'Gath -1.0
+Jax Nautilus Varus Neeko Teemo -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Vayne Senna Lee Sin Ryze Yasuo -1.0
+Anivia Senna Teemo Master Yi Zed -1.0
+Senna Gragas Ashe Pantheon Zoe -1.0
+Senna Varus Yorick Riven Xin Zhao -1.0
+Swain Ezreal Kassadin Warwick Tryndamere -1.0
+Pyke Miss Fortune Annie Vladimir Lee Sin -1.0
+Kha'Zix Ryze Urgot Twitch Soraka -1.0
+Graves Jinx Kog'Maw Mordekaiser Akali -1.0
+Kindred Yuumi Qiyana Illaoi Caitlyn -1.0
+Renekton Miss Fortune Caitlyn Morgana Teemo -1.0
+Kennen Volibear Shyvana Heimerdinger Master Yi -1.0
+Volibear Annie Xin Zhao Quinn Renekton -1.0
+Kayn Diana Jax Thresh Kalista -1.0
+Nautilus Lee Sin Darius Ashe Syndra -1.0
+Teemo Thresh Ryze Ezreal Rengar -1.0
+Lee Sin Brand Vayne Mordekaiser Qiyana -1.0
+Caitlyn Evelynn Talon Jax Maokai -1.0
+Senna Qiyana Teemo Kai'Sa Viktor -1.0
+Sona Graves Jinx Kog'Maw Volibear -1.0
+Rengar Nidalee Caitlyn Morgana Qiyana -1.0
+Xayah Anivia Brand Shyvana Garen -1.0
+Miss Fortune Sion Orianna Soraka Renekton -1.0
+Ashe Trundle Annie Taric Renekton -1.0
+Kog'Maw Warwick Orianna Zilean Volibear -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Teemo Evelynn Talon Neeko Ryze -1.0
+Kog'Maw Master Yi Teemo Zyra Amumu -1.0
+Senna Karma Yasuo Nunu & Willump Trundle -1.0
+Miss Fortune Riven Master Yi Zed Lux -1.0
+Nautilus Heimerdinger Riven Udyr Zoe -1.0
+Jax Thresh Ashe Kayn Kassadin -1.0
+Graves Miss Fortune Thresh Fiora Sylas -1.0
+Fizz Dr. Mundo Caitlyn Senna Quinn -1.0
+Jinx Zed Brand Ryze Ekko -1.0
+Vayne Blitzcrank Yasuo Heimerdinger Master Yi -1.0
+Nautilus Kha'Zix Jayce Sivir Syndra -1.0
+Miss Fortune Master Yi Annie Zilean Volibear -1.0
+Jhin Lux Olaf Xerath Darius -1.0
+Blitzcrank Thresh Sejuani Ekko Riven -1.0
+Elise Ezreal Senna Kennen Camille -1.0
+Rakan Jhin Renekton Yasuo Katarina -1.0
+Tristana Rengar Kled Thresh Vayne -1.0
+Kha'Zix Tryndamere Ahri Senna Karthus -1.0
+Jhin Nami Yasuo Camille Ekko -1.0
+Ezreal Akali Rengar Twisted Fate Vel'Koz -1.0
+Morgana Xin Zhao Quinn Caitlyn Ryze -1.0
+Teemo Leona Kai'Sa Yasuo Kayn -1.0
+Caitlyn Malphite Olaf Heimerdinger Rakan -1.0
+Karma Shaco Aatrox Jhin Ezreal -1.0
+Fiora Ahri Twitch Yuumi Irelia -1.0
+Ekko Akali Ezreal Thresh Ryze -1.0
+Caitlyn Wukong Ahri Nami Renekton -1.0
+Pyke Jhin Senna Quinn Master Yi -1.0
+Leona Ashe Lux Senna Ekko -1.0
+Yorick Ekko Kayn Senna Tristana -1.0
+Senna Caitlyn Riven Ashe Rengar -1.0
+Caitlyn Senna Lee Sin Morgana Akali -1.0
+Irelia Twitch Darius Brand Sejuani -1.0
+Neeko Jayce Nocturne Lucian Bard -1.0
+Jhin Udyr Galio Pyke Mordekaiser -1.0
+Lucian Neeko Alistar Quinn Lee Sin -1.0
+Katarina Dr. Mundo Lee Sin Gragas Senna -1.0
+Shaco Thresh Zed Urgot Jhin -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Skarner Lucian Ziggs Leona Trundle -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Volibear Akali Master Yi Vladimir Graves -1.0
+Miss Fortune Trundle Annie Ryze Leona -1.0
+Nocturne Ekko Thresh Tristana Pantheon -1.0
+Draven Renekton Morgana Katarina Rengar -1.0
+Yasuo Ekko Taric Lux Draven -1.0
+Lucian Wukong Senna Ahri Kayn -1.0
+Cho'Gath Blitzcrank Jarvan IV Ashe Syndra -1.0
+Renekton Ekko Nami Ashe Senna -1.0
+Caitlyn Ahri Sejuani Nasus Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Morgana Ashe Jarvan IV Vladimir Olaf -1.0
+Jax Kassadin Xayah Senna Olaf -1.0
+Ryze Zoe Kha'Zix Taric Jinx -1.0
+Senna Nautilus Twitch Jax Malzahar -1.0
+Thresh Kai'Sa Garen Fizz Kayn -1.0
+Ashe Senna Fiora Cho'Gath Jax -1.0
+Fiora Heimerdinger Lux Nasus Olaf -1.0
+Jhin Leona Swain Kayn Jax -1.0
+Irelia Draven Katarina Tahm Kench Darius -1.0
+Rakan Xayah Fiora Ekko Camille -1.0
+Kayn Yasuo Kai'Sa Rengar Zyra -1.0
+Thresh Kai'Sa Qiyana Ornn Nocturne -1.0
+Ryze Anivia Leona Gnar Graves -1.0
+Ashe Warwick Ryze Taric Cho'Gath -1.0
+Dr. Mundo Sivir Janna Jax Zed -1.0
+Elise Morgana Malzahar Miss Fortune Irelia -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Sona Diana Cho'Gath Swain Quinn -1.0
+Lux Gragas Pyke Caitlyn Ryze -1.0
+Jhin Kha'Zix Swain Riven Zed -1.0
+Wukong Jinx Udyr Morgana Ahri -1.0
+Maokai Zed Tristana Leona Shyvana -1.0
+Miss Fortune Warwick Ryze Annie Renekton -1.0
+Qiyana Akali Senna Diana Soraka -1.0
+Master Yi Mordekaiser Viktor Lux Ashe -1.0
+Katarina Ezreal Ryze Fiddlesticks Amumu -1.0
+Lux Lucian Leona Kindred Darius -1.0
+Ekko Lux Jarvan IV Senna Kayle -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Evelynn Mordekaiser Pantheon Kai'Sa Rumble -1.0
+Garen Karma Gragas Caitlyn Nautilus -1.0
+Kai'Sa Olaf Neeko Senna Akali -1.0
+Miss Fortune Trundle Annie Ryze Cho'Gath -1.0
+Senna Vladimir Mordekaiser Shyvana Kha'Zix -1.0
+Ashe Trundle Annie Lux Leona -1.0
+Pantheon Zed Morgana Lucian Xin Zhao -1.0
+Udyr Lux Katarina Galio Xayah -1.0
+Master Yi Mordekaiser Xerath Teemo Irelia -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kha'Zix Senna Teemo Nautilus Kai'Sa -1.0
+Shyvana Yasuo Teemo Shaco Lucian -1.0
+Ekko Jinx Senna Fiora Wukong -1.0
+Jhin Singed Twitch Lee Sin Shen -1.0
+Brand Kha'Zix Akali Vayne Illaoi -1.0
+Tryndamere Nocturne Pyke Twitch Thresh -1.0
+Rengar Thresh Xin Zhao Ahri Ezreal -1.0
+Lucian Vladimir Master Yi Nami Xin Zhao -1.0
+Qiyana Lucian Lux Urgot Lee Sin -1.0
+Ashe Kennen Lee Sin Galio Garen -1.0
+Lee Sin Ahri Katarina Akali Alistar -1.0
+Warwick Lux Xerath Jinx Urgot -1.0
+Vayne Annie Pyke Garen Qiyana -1.0
+Xayah Shaco Garen Jhin Warwick -1.0
+Zoe Jarvan IV Aatrox Ezreal Volibear -1.0
+Rengar Renekton Qiyana Senna Blitzcrank -1.0
+Jhin Lee Sin Karma Zoe Fiora -1.0
+Senna Teemo Ezreal Yasuo Evelynn -1.0
+Braum Kayn Ezreal Poppy Jhin -1.0
+Garen Senna Draven Yasuo Qiyana -1.0
+Lee Sin Garen Jhin Sylas Lux -1.0
+Heimerdinger Jax Cho'Gath Shaco Renekton -1.0
+Syndra Jarvan IV Tristana Blitzcrank Twisted Fate -1.0
+Sivir Leona Veigar Morgana Renekton -1.0
+Swain Kai'Sa Kha'Zix Tristana Thresh -1.0
+Zed Singed Teemo Ezreal Sona -1.0
+Master Yi Thresh Qiyana Aatrox Twitch -1.0
+Master Yi Draven Fiora Heimerdinger Fiddlesticks -1.0
+Vayne Rammus Gangplank Brand Irelia -1.0
+Kai'Sa Yasuo Darius Leona Vi -1.0
+Olaf Ashe Heimerdinger Dr. Mundo Nami -1.0
+Gragas Zilean Tristana Malzahar Yasuo -1.0
+Akali Thresh Draven Xin Zhao Yasuo -1.0
+Master Yi Sylas Senna Ashe Caitlyn -1.0
+Cho'Gath Aatrox Xayah Rakan Rengar -1.0
+Ahri Zilean Akali Vayne Kayn -1.0
+Vayne Zyra Warwick Cho'Gath Zed -1.0
+Ekko Senna Vi Brand Gangplank -1.0
+Neeko Nautilus Camille Garen Ezreal -1.0
+Yasuo Kog'Maw Akali Volibear Pyke -1.0
+Miss Fortune Trundle Annie Lux Renekton -1.0
+Irelia Brand Nautilus Miss Fortune Shyvana -1.0
+Jarvan IV Draven Blitzcrank Vladimir Ahri -1.0
+Yuumi Katarina Kog'Maw Dr. Mundo Teemo -1.0
+Kog'Maw Yasuo Shyvana Senna Karma -1.0
+Soraka Tryndamere Malzahar Shyvana Ashe -1.0
+Karma Ryze Olaf Caitlyn Yasuo -1.0
+Thresh Caitlyn Ryze Gragas Gangplank -1.0
+Heimerdinger Ashe Yasuo Kayn Rakan -1.0
+Kai'Sa Vladimir Yasuo Senna Sejuani -1.0
+Kha'Zix Yasuo Leona Lux Vayne -1.0
+Cho'Gath Morgana Miss Fortune Olaf Kassadin -1.0
+Yasuo Vel'Koz Kassadin Udyr Kennen -1.0
+Syndra Evelynn Garen Kalista Nautilus -1.0
+Thresh Pantheon Morgana Fiora Lissandra -1.0
+Yasuo Urgot Kog'Maw Ryze Senna -1.0
+Caitlyn Lux Miss Fortune Teemo Trundle -1.0
+Xin Zhao Braum Vladimir Fiora Lucian -1.0
+Kassadin Shaco Tryndamere Ashe Senna -1.0
+Ashe Leona Master Yi Yasuo Gangplank -1.0
+Tristana Sion Cassiopeia Zyra Renekton -1.0
+Lee Sin Akali Senna Mordekaiser Ezreal -1.0
+Olaf Jax Fiddlesticks Taric Amumu -1.0
+Aatrox Thresh Vayne Warwick Galio -1.0
+Janna Caitlyn Renekton Ahri Karthus -1.0
+Udyr Qiyana Thresh Kai'Sa Ryze -1.0
+Singed Senna Evelynn Garen Tristana -1.0
+Ekko Caitlyn Blitzcrank Fizz Garen -1.0
+Vayne Jax Vladimir Soraka Garen -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kai'Sa Morgana Qiyana Xerath Master Yi -1.0
+Quinn Ryze Kai'Sa Kha'Zix Zac -1.0
+Senna Jarvan IV Cassiopeia Caitlyn Mordekaiser -1.0
+Xayah Tahm Kench Jax Pantheon Nidalee -1.0
+Senna Master Yi Lee Sin Ashe Teemo -1.0
+Rumble Heimerdinger Senna Qiyana Akali -1.0
+Vayne Udyr Vladimir Lux Volibear -1.0
+Kog'Maw Lucian Shaco Wukong Twisted Fate -1.0
+Miss Fortune Warwick Ryze Lux Cho'Gath -1.0
+Fizz Lux Nocturne Shaco Sivir -1.0
+Dr. Mundo Qiyana Lucian Kayle Thresh -1.0
+Miss Fortune Ekko Braum Master Yi Xin Zhao -1.0
+Ashe Warwick Ryze Taric Trundle -1.0
+Ashe Warwick Ryze Taric Trundle -1.0
+Ryze Volibear Kennen Lux Trundle -1.0
+Soraka Master Yi Talon Lux Kayle -1.0
+Lux Ekko Caitlyn Wukong Illaoi -1.0
+Taliyah Akali Sona Vayne Quinn -1.0
+Vi Kai'Sa Thresh Katarina Rengar -1.0
+Riven Elise Kassadin Morgana Kai'Sa -1.0
+Darius Yasuo Ekko Rakan Kai'Sa -1.0
+Nami Qiyana Malphite Volibear Vayne -1.0
+Sivir Ornn Yasuo Pyke Gragas -1.0
+Leona Ekko Aatrox Evelynn Kalista -1.0
+Gragas Akali Yasuo Malphite Nautilus -1.0
+Zilean Vladimir Teemo Amumu Tristana -1.0
+LeBlanc Mordekaiser Vayne Nautilus Pyke -1.0
+Ryze Fiddlesticks Qiyana Veigar Ziggs -1.0
+Renekton Malphite Senna Kindred Ezreal -1.0
+Qiyana Xin Zhao Malzahar Yasuo Senna -1.0
+Miss Fortune Blitzcrank Kha'Zix Vladimir Ziggs -1.0
+Kayle Gragas Ashe Pyke Akali -1.0
+Mordekaiser Blitzcrank Miss Fortune Viktor Shyvana -1.0
+Senna Garen Yasuo Gragas Lulu -1.0
+Neeko Lee Sin Irelia Senna Ashe -1.0
+Ezreal Irelia Mordekaiser Senna Warwick -1.0
+Ashe Master Yi Veigar Pyke Volibear -1.0
+Akali Mordekaiser Lux Katarina Zyra -1.0
+Aatrox Anivia Ashe Zac Morgana -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Teemo Vi Vayne Akali Senna -1.0
+Olaf Caitlyn Camille Leona Ryze -1.0
+Ryze Lucian Lee Sin LeBlanc Jax -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Morgana Qiyana Miss Fortune Kog'Maw Kha'Zix -1.0
+Lux Caitlyn Fiora Jarvan IV Galio -1.0
+Kog'Maw Mordekaiser Akali Volibear Elise -1.0
+Vladimir Senna Janna Kayn Thresh -1.0
+Dr. Mundo Poppy Janna Vayne Teemo -1.0
+Kai'Sa Renekton Akali Kha'Zix Morgana -1.0
+Ekko Jhin Thresh Orianna Darius -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Diana Jax Darius Kog'Maw Yuumi -1.0
+Varus Morgana Yasuo Master Yi Riven -1.0
+Blitzcrank Akali Graves Jinx Kog'Maw -1.0
+Hecarim Jinx Annie Zyra Nasus -1.0
+Kog'Maw Shyvana Twisted Fate Jinx Soraka -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Caitlyn Tryndamere Xerath Xin Zhao Lux -1.0
+Akali Senna Singed Talon Vi -1.0
+Lee Sin Urgot Xayah Veigar Blitzcrank -1.0
+Akali Rumble Yasuo Taric Hecarim -1.0
+Warwick Kog'Maw Vladimir Soraka Graves -1.0
+Veigar Ashe Kayn Qiyana Darius -1.0
+Miss Fortune Senna Fiora Ahri Vi -1.0
+Kai'Sa Senna Renekton Teemo Kindred -1.0
+Nidalee Qiyana Kindred Vayne Taric -1.0
+Zed Ashe Kennen Teemo Lux -1.0
+Tahm Kench Diana Caitlyn Fiora Graves -1.0
+Vayne Morgana Lee Sin Zed Irelia -1.0
+Jarvan IV Wukong Azir Swain Tristana -1.0
+Neeko Gangplank Shen Bard Xayah -1.0
+Lux Miss Fortune Rammus Darius Kha'Zix -1.0
+Aatrox Rakan Ekko Xin Zhao Tristana -1.0
+Vladimir Sivir Bard Olaf Akali -1.0
+Akali Evelynn Leona Sivir Irelia -1.0
+Neeko Kha'Zix Syndra Caitlyn Blitzcrank -1.0
+Ashe Warwick Ryze Taric Trundle -1.0
+Heimerdinger Volibear Lissandra Ashe Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Caitlyn Riven Janna Ekko Amumu -1.0
+Blitzcrank Vayne Udyr Irelia Yasuo -1.0
+Karma Akali Kalista Aatrox Vi -1.0
+Caitlyn Kled Olaf Thresh Xerath -1.0
+Jinx Graves Pantheon Mordekaiser Kog'Maw -1.0
+Renekton Cho'Gath Sivir Ryze Volibear -1.0
+Olaf Jhin Mordekaiser Swain Morgana -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Talon Ryze Thresh Nocturne Yasuo -1.0
+Lee Sin Master Yi Annie Aatrox Senna -1.0
+Lux Aatrox Kai'Sa Graves Shaco -1.0
+Cassiopeia Soraka Caitlyn Dr. Mundo Kha'Zix -1.0
+Miss Fortune Senna Ryze Evelynn Akali -1.0
+Jinx Nocturne Zyra Kog'Maw Dr. Mundo -1.0
+Lux Ezreal Nocturne Garen Soraka -1.0
+Mordekaiser Akali Kai'Sa Wukong Senna -1.0
+Katarina Lee Sin Brand Tristana Riven -1.0
+Thresh Ezreal Cho'Gath Zoe Nunu & Willump -1.0
+Kassadin Pyke Tristana Janna Aatrox -1.0
+Morgana Qiyana Kindred Jax Elise -1.0
+Pyke Riven Jarvan IV Ezreal Xayah -1.0
+Akali Trundle Jarvan IV Ezreal Blitzcrank -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Syndra Vi Ornn Kennen Gnar -1.0
+Leona Ezreal Sion Qiyana Malzahar -1.0
+Caitlyn Blitzcrank Jax Darius Lux -1.0
+Vladimir Shaco Pyke Dr. Mundo Nunu & Willump -1.0
+Jhin Evelynn Fizz Katarina Karthus -1.0
+Zed Karma Amumu Garen Ezreal -1.0
+Miss Fortune Graves Kog'Maw Jinx Mordekaiser -1.0
+Camille Akali Kha'Zix Lux Tristana -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Pyke Neeko Shaco Qiyana Quinn -1.0
+Jinx Darius Neeko Thresh Graves -1.0
+Syndra Vayne Zyra Varus Ekko -1.0
+Ezreal Trundle Annie Lux Leona -1.0
+Ezreal Rengar Senna Nasus Viktor -1.0
+Lucian Yasuo Teemo Thresh Rengar -1.0
+Lux Draven Jax LeBlanc Thresh -1.0
+Zyra Miss Fortune Darius Graves Fizz -1.0
+Warwick Lux Ahri Kai'Sa Ryze -1.0
+Lee Sin Singed Ashe Teemo Lulu -1.0
+Thresh Zoe Ekko Nocturne Cassiopeia -1.0
+Jhin Nocturne Tryndamere Twisted Fate Yuumi -1.0
+Akali Kog'Maw Jinx Mordekaiser Vladimir -1.0
+Ezreal Lee Sin Riven Amumu Qiyana -1.0
+Twisted Fate Vladimir Tristana Twitch Senna -1.0
+Gangplank Karma Yasuo Camille Ashe -1.0
+Morgana Thresh Ashe Vladimir Twitch -1.0
+Karma Leona Ashe Shaco Quinn -1.0
+Rek'Sai Orianna Renekton Lux Jhin -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Evelynn Jhin Riven Pantheon Ahri -1.0
+Riven Shaco Ryze Nami Jhin -1.0
+Brand Tristana Shen Miss Fortune Elise -1.0
+Shaco Lee Sin Tahm Kench Ahri Lucian -1.0
+Senna Akali Teemo Master Yi Xerath -1.0
+Viktor Nasus Senna Ashe Kha'Zix -1.0
+Miss Fortune Warwick Ryze Lux Renekton -1.0
+Twisted Fate Graves Darius Jinx Kalista -1.0
+Ashe Warwick Annie Taric Leona -1.0
+Vladimir Illaoi Blitzcrank Neeko Ahri -1.0
+Viktor Malphite Leona Shaco Heimerdinger -1.0
+Xayah Gnar Brand Yasuo Shaco -1.0
+Sylas Irelia Kog'Maw Rakan Lee Sin -1.0
+Zyra Mordekaiser Jhin Kayn Senna -1.0
+Vi Veigar Nasus Draven Senna -1.0
+Miss Fortune Ornn Azir Riven Kha'Zix -1.0
+Fiddlesticks Xin Zhao Veigar Gragas Kai'Sa -1.0
+Kai'Sa Vladimir Bard Illaoi Evelynn -1.0
+Zed Varus Qiyana Rumble Senna -1.0
+Leona Kha'Zix Yasuo Tryndamere Senna -1.0
+Olaf Lee Sin Pyke Kai'Sa Veigar -1.0
+Darius Nunu & Willump Twisted Fate Kai'Sa Janna -1.0
+Karthus Nautilus Jayce Kayn Yasuo -1.0
+Katarina Poppy Rammus Ashe Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Senna Yasuo Kalista Xin Zhao Gragas -1.0
+Rengar Kha'Zix Riven Jhin Yasuo -1.0
+Galio Ashe Irelia Akali Gragas -1.0
+Nocturne Sylas Leona Nasus Jhin -1.0
+Heimerdinger Lux Irelia Jarvan IV Yasuo -1.0
+Twitch Master Yi LeBlanc Darius Lux -1.0
+Mordekaiser Ashe Jax Nunu & Willump Malzahar -1.0
+Cho'Gath Brand Nautilus Qiyana Mordekaiser -1.0
+Kha'Zix Bard Kog'Maw Yasuo Ryze -1.0
+Xerath Draven Senna Udyr Vayne -1.0
+Lissandra Syndra Kalista Twisted Fate Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Fizz Jarvan IV Kai'Sa Singed Alistar -1.0
+Miss Fortune Trundle Annie Taric Cho'Gath -1.0
+Darius Zoe Miss Fortune Master Yi Ahri -1.0
+Senna Illaoi Jarvan IV Jinx Swain -1.0
+Lee Sin Thresh Ryze Lucian Zed -1.0
+Mordekaiser Zac Lux Kai'Sa Ryze -1.0
+Brand Vayne Garen Cassiopeia Evelynn -1.0
+Lee Sin Vladimir Kai'Sa Leona Ryze -1.0
+Morgana Zed Warwick Pantheon Jax -1.0
+Vi Galio Miss Fortune Zed Volibear -1.0
+Kayn Miss Fortune Senna Qiyana Riven -1.0
+Veigar Morgana Karthus Fiora Tristana -1.0
+Galio Gragas Renekton LeBlanc Tristana -1.0
+Heimerdinger Camille Lucian Kayn Thresh -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Vladimir Pyke Leona Garen Vayne -1.0
+Yasuo Jinx Shyvana Zyra Garen -1.0
+Talon Ziggs Yuumi Shyvana Irelia -1.0
+Morgana Jinx Renekton Varus Master Yi -1.0
+Udyr Morgana Zed Fizz Teemo -1.0
+Skarner Akali Garen Syndra Senna -1.0
+Senna Xerath Qiyana Talon Lucian -1.0
+Senna Jhin Lee Sin Lux Vladimir -1.0
+Kindred Kled Pyke Pantheon Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ashe Warwick Ryze Lux Trundle -1.0
+Pantheon Poppy Syndra Evelynn Caitlyn -1.0
+Neeko Galio Kayn Yorick Vayne -1.0
+Miss Fortune Warwick Annie Ryze Renekton -1.0
+Rumble Lee Sin Twisted Fate Volibear Lucian -1.0
+Riven Sivir Senna Olaf Teemo -1.0
+Nocturne Ezreal Renekton Veigar Kayle -1.0
+Jayce Jhin Morgana Xayah Jax -1.0
+Jayce Jhin Morgana Xayah Jax -1.0
+Ekko Morgana Ashe Riven Ryze -1.0
+Graves Trundle Orianna Brand Volibear -1.0
+Rammus Ryze Poppy Pyke Jhin -1.0
+Draven Soraka Jhin Rammus Tryndamere -1.0
+Katarina Gnar Evelynn Alistar Galio -1.0
+Draven Lux Thresh Yasuo Master Yi -1.0
+Teemo Miss Fortune Ahri Yuumi Illaoi -1.0
+Singed Senna Qiyana Vladimir Blitzcrank -1.0
+Skarner Anivia Pyke Garen Tristana -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ashe Warwick Ryze Taric Cho'Gath -1.0
+Udyr Swain Thresh Vi Veigar -1.0
+Master Yi Malphite Nautilus Jhin Wukong -1.0
+Zed Akali Ezreal Blitzcrank Kha'Zix -1.0
+Tristana Vladimir Jax Malphite Pyke -1.0
+Varus Galio Jarvan IV Teemo Annie -1.0
+Lee Sin Riven Senna Akali Jhin -1.0
+Soraka Rengar Ekko Heimerdinger Talon -1.0
+Ornn Azir Malzahar Lee Sin Jhin -1.0
+Master Yi Shen Zyra Soraka Lucian -1.0
+Ashe Warwick Teemo Soraka Alistar -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Pyke Volibear Dr. Mundo Nautilus Caitlyn -1.0
+Garen Qiyana Kha'Zix Ashe Senna -1.0
+Cassiopeia Jinx Yasuo Quinn Taliyah -1.0
+Diana Illaoi Senna Ahri Yuumi -1.0
+Volibear Jarvan IV Twisted Fate Caitlyn Ahri -1.0
+Twisted Fate Jax Orianna Neeko Riven -1.0
+Ornn Senna Ezreal Ekko Lux -1.0
+Alistar Olaf Senna Ahri Udyr -1.0
+Lee Sin Urgot Blitzcrank Diana Ekko -1.0
+Nami Vladimir Sion Tristana Qiyana -1.0
+Pyke Miss Fortune Kayle Illaoi Veigar -1.0
+Malphite Kindred Jinx Aurelion Sol Darius -1.0
+Nautilus Cho'Gath Master Yi Ashe Yasuo -1.0
+Kindred Neeko Talon Kog'Maw Leona -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Twisted Fate Shyvana Ashe Garen Kai'Sa -1.0
+Kog'Maw Wukong Annie Alistar Cho'Gath -1.0
+Pyke Ekko Kassadin Graves Ashe -1.0
+Xin Zhao Talon Heimerdinger Senna Twitch -1.0
+Quinn Garen Miss Fortune Vladimir Nami -1.0
+Tristana Akali Xin Zhao Miss Fortune Nautilus -1.0
+Twitch Yuumi Sivir Ryze Garen -1.0
+Blitzcrank Jax Caitlyn Twisted Fate Singed -1.0
+Caitlyn Nunu & Willump Yasuo Karma Teemo -1.0
+Morgana Ezreal Malzahar Pantheon Teemo -1.0
+Ashe Nami Nidalee Zoe Nautilus -1.0
+Yorick Senna Yasuo Malzahar Lee Sin -1.0
+Renekton Orianna Xerath Kai'Sa Master Yi -1.0
+Nasus Volibear Ezreal Tristana Pyke -1.0
+Neeko LeBlanc Lucian Volibear Pyke -1.0
+Dr. Mundo Rumble Alistar Graves Shaco -1.0
+Katarina Senna Miss Fortune Fiora Quinn -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kha'Zix Twisted Fate Janna Jhin Ornn -1.0
+Ashe Kayle Orianna Swain Malphite -1.0
+Bard Garen Jhin Ryze Hecarim -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ezreal Jax Soraka Tryndamere Orianna -1.0
+Ashe Trundle Annie Warwick Leona -1.0
+Jinx Udyr Cassiopeia Taric Leona -1.0
+Amumu Nautilus Morgana Twitch Nocturne -1.0
+Vladimir Ezreal Master Yi Zed Lux -1.0
+Ezreal Riven Kha'Zix Senna Heimerdinger -1.0
+Diana Jhin Graves Senna Urgot -1.0
+Illaoi Malphite Fizz Rakan Senna -1.0
+Senna Karthus Nami Yasuo Pantheon -1.0
+Nidalee Jax Teemo Graves Rammus -1.0
+Brand Nasus Sylas Vayne Warwick -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Kayn Jhin Lux Ivern Akali -1.0
+Graves Nasus Orianna Dr. Mundo Nami -1.0
+Mordekaiser Nasus Nautilus Vayne Udyr -1.0
+Ashe Warwick Ryze Trundle Leona -1.0
+Leona Caitlyn Fizz Kayn Dr. Mundo -1.0
+Neeko Jinx Trundle Vladimir Jayce -1.0
+Lux Annie Kha'Zix Caitlyn Karma -1.0
+Teemo Nasus Kai'Sa Kayle Jax -1.0
+Yuumi Zed Kha'Zix Jinx Fiora -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Vladimir Tristana Kog'Maw Annie Renekton -1.0
+Taliyah Sylas Ashe Xayah Shen -1.0
+Kayle Udyr Ziggs Brand Alistar -1.0
+Kog'Maw Udyr Veigar Zilean Garen -1.0
+Jinx Kog'Maw Malzahar Soraka Graves -1.0
+Ashe Syndra Nocturne Irelia Thresh -1.0
+Pyke Heimerdinger Varus Twitch Urgot -1.0
+Irelia Lucian Kindred Mordekaiser Lulu -1.0
+Jhin Nasus Ekko Shaco Katarina -1.0
+Shaco Lucian Poppy Nami Jinx -1.0
+Senna Qiyana Fiddlesticks Yasuo Urgot -1.0
+Irelia Janna Kai'Sa Warwick Zed -1.0
+Draven Lee Sin Leona Swain Aatrox -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Leona Qiyana Jinx Mordekaiser Shyvana -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ashe Ahri Garen Rek'Sai Vi -1.0
+Tristana Ekko Warwick Darius Annie -1.0
+Xayah Yasuo Renekton Soraka Qiyana -1.0
+Udyr Qiyana Tryndamere Zyra Heimerdinger -1.0
+Lee Sin Kai'Sa Leona Qiyana Karthus -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Malzahar Blitzcrank Caitlyn Fiora Kha'Zix -1.0
+Fizz Riven Soraka Lucian Warwick -1.0
+Senna Ziggs Lee Sin Udyr Qiyana -1.0
+Yasuo Senna Nasus Jinx Jarvan IV -1.0
+Neeko Kayn Morgana Yasuo Tryndamere -1.0
+Tristana Malphite Master Yi Veigar Morgana -1.0
+Miss Fortune Lux Garen Veigar Rengar -1.0
+Mordekaiser Graves Kog'Maw Zed Master Yi -1.0
+Renekton Shyvana Yuumi Katarina Ashe -1.0
+Lee Sin Mordekaiser Caitlyn Talon Senna -1.0
+Kayle Alistar Maokai Talon Kai'Sa -1.0
+Kayle Jax Teemo Taric Amumu -1.0
+Nocturne Kennen Fiora Yuumi Ezreal -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Darius Udyr Nasus Miss Fortune Master Yi -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Yasuo Amumu Jhin Senna Brand -1.0
+Rammus Karma Miss Fortune Garen Cho'Gath -1.0
+Ryze Mordekaiser Gnar Amumu Senna -1.0
+Vladimir Jinx Graves Twisted Fate Kog'Maw -1.0
+Lee Sin Ashe Senna Diana Gangplank -1.0
+Malphite Jinx Neeko Quinn Volibear -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Qiyana Gangplank Shyvana Jhin Lux -1.0
+Miss Fortune Wukong Annie Nami Blitzcrank -1.0
+Ryze Master Yi Mordekaiser Qiyana Ornn -1.0
+Senna Ezreal Nidalee Orianna Kled -1.0
+Darius Ekko Yasuo Senna Ahri -1.0
+Lucian Tryndamere Jax Pantheon Senna -1.0
+Kai'Sa Lee Sin Senna Twisted Fate Graves -1.0
+Yuumi Master Yi Pantheon Thresh Draven -1.0
+Miss Fortune Warwick Annie Lux Leona -1.0
+Kai'Sa Nasus Zed Pyke Nocturne -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Caitlyn Xerath Graves Warwick Thresh -1.0
+Yorick Diana Rengar Akali Thresh -1.0
+Zed Ezreal Thresh Kai'Sa Darius -1.0
+Miss Fortune Warwick Ryze Taric Cho'Gath -1.0
+Warwick Caitlyn Soraka Akali Yasuo -1.0
+Ahri Ezreal Warwick Garen Blitzcrank -1.0
+Lucian Jax Talon Elise Thresh -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Ziggs Ekko Jhin Amumu Renekton -1.0
+Sivir Cho'Gath Yasuo Lee Sin Brand -1.0
+Veigar Pantheon Nocturne Malphite Caitlyn -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Braum Lee Sin Tryndamere Ezreal Yasuo -1.0
+Ashe Trundle Ryze Taric Leona -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Fiora Jhin Swain Lee Sin Galio -1.0
+Senna Nautilus Jhin Kayn Sylas -1.0
+Aatrox Olaf Pyke Xayah Fizz -1.0
+Senna Braum Xin Zhao Urgot Tristana -1.0
+Warwick Senna Jinx Vayne Veigar -1.0
+Kog'Maw Nocturne Teemo Alistar Galio -1.0
+Riven Lee Sin Orianna Jinx Swain -1.0
+Brand Xin Zhao Gnar Neeko Ezreal -1.0
+Veigar Lee Sin Yorick Nunu & Willump Zoe -1.0
+Xin Zhao Lux Yasuo Singed Cho'Gath -1.0
+Vladimir Irelia Senna Ashe Jax -1.0
+Udyr Garen Lux Leona Ashe -1.0
+Twisted Fate Vladimir Kog'Maw Jinx Kayle -1.0
+Senna Riven Vladimir Akali Caitlyn -1.0
+Evelynn Ekko Akali Senna Ashe -1.0
+Kog'Maw Graves Jinx Vladimir Ahri -1.0
+Senna Vi Veigar Garen Blitzcrank -1.0
+Brand Sivir Ahri Vi Nami -1.0
+Teemo Kha'Zix Ryze Nami Jhin -1.0
+Senna Garen Lulu Kha'Zix Yorick -1.0
+Kog'Maw Fiora Yasuo Master Yi Pyke -1.0
+Jhin Senna Pyke Tryndamere Rengar -1.0
+Jayce Nocturne Varus Lux Yasuo -1.0
+Akali Ezreal Kha'Zix Teemo Senna -1.0
+Ezreal Nasus Ryze Alistar Galio -1.0
+Sivir Darius Katarina Morgana Dr. Mundo -1.0
+Maokai Ryze Jinx Senna Kayn -1.0
+Senna Neeko Twisted Fate Kayn Akali -1.0
+Senna Shaco Leona Poppy Yasuo -1.0
+Miss Fortune Sion Annie Lux Galio -1.0
+Miss Fortune Qiyana Fiora Zed Jarvan IV -1.0
+Ezreal Darius Annie Nami Cho'Gath -1.0
