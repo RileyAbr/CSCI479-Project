@@ -28,7 +28,7 @@ cass.set_default_region("NA")
 
 
 # No. of champions currently in game
-number_of_champions = 146  # len(cass.get_champions())
+number_of_champions = len(cass.get_champions())
 
 # Transaction table of all champions by matches played. The format of the table is as follows:
 #           Champ1 | Champ2 | Champ3| ...
@@ -40,8 +40,6 @@ number_of_champions = 146  # len(cass.get_champions())
 
 winning_champs_transaction_table = []
 losing_champs_transaction_table = []
-winning_champs_classifier_transaction_table = []
-losing_champs_classifier_transaction_table = []
 
 # This stores the equivalent ID's of champions put into the transaction table. While there are 140+ champions in the game, some have ID's stretching as far as the 300's. This sytem allows us to instead create our own ID's in place
 
@@ -55,14 +53,6 @@ for document in win_champs_col.find():  # Can use .limit(n) to reduce for testin
 losing_champs = []
 for document in loss_champs_col.find():  # Can use .limit(n) to reduce for testing
     losing_champs.append(document)
-
-winning_champs_classifiers = []
-for document in win_champs_class_col.find():
-    winning_champs_classifiers.append(document)
-
-losing_champs_classifiers = []
-for document in loss_champs_class_col.find():
-    losing_champs_classifiers.append(document)
 
 # TRANSACTION TABLE
 for match in winning_champs:
@@ -91,33 +81,23 @@ for match in losing_champs:
 
 # Write transactions to files
 win_file = open('win_transactions.txt', 'w')
+win_file_class = open('win_transactions_classifier.txt', 'w')
 print(*[champ.replace(' ', '')
         for champ in transaction_table_ids_lookup], file=win_file)
 for match in winning_champs_transaction_table:
+    match_classifier = [*match, 1]
     print(*match, file=win_file)
+    print(*match_classifier, file=win_file_class)
 win_file.close()
+win_file_class.close()
 
 loss_file = open('loss_transactions.txt', 'w')
+loss_file_class = open('loss_transactions_classifier.txt', 'w')
 print(*[champ.replace(' ', '')
         for champ in transaction_table_ids_lookup], file=loss_file)
 for match in losing_champs_transaction_table:
+    match_classifier = [*match, -1]
     print(*match, file=loss_file)
+    print(*match_classifier, file=loss_file_class)
 loss_file.close()
-
-win_file_class = open('win_transactions_classifier.txt', 'w')
-for match in winning_champs_classifiers:
-    match_transaction = []
-    for champ in match.get("winning_champions"):
-        match_transaction.append(champ)
-    match_transaction.append(match.get("classifier_id"))
-    print(*match_transaction, file=win_file_class)
-win_file_class.close()
-
-loss_file_class = open('loss_transactions_classifier.txt', 'w')
-for match in losing_champs_classifiers:
-    match_transaction = []
-    for champ in match.get("losing_champions"):
-        match_transaction.append(champ)
-    match_transaction.append(match.get("classifier_id"))
-    print(*match_transaction, file=loss_file_class)
 loss_file_class.close()
