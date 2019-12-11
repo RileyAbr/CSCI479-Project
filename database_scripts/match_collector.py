@@ -1,6 +1,7 @@
 import requests
 import json
 import time
+import datetime
 import pymongo
 import cassiopeia as cass
 from DBKEYS import user, passcode
@@ -32,12 +33,12 @@ def get_champions(team):
 
 
 # This is a completely arbitrary starting value
-match_id = 3213024336
+match_id = 3229007284
 
 # Loop counter that only increments when a match exists
 successful_matches = 0
 # DATABASE INSERTIONS
-while successful_matches < 1000:
+while successful_matches < 10000:
     winning_champions = []
     losing_champions = []
     match = cass.get_match(match_id)
@@ -47,6 +48,7 @@ while successful_matches < 1000:
     if match.exists and match.mode.value == "CLASSIC" and match.map.id == 11 and (match.queue.id in (400, 420, 430, 440)):
         # Collect teams
         blue_team = get_champions(match.blue_team)
+
         red_team = get_champions(match.red_team)
 
         # For Blue Team wins
@@ -78,7 +80,8 @@ while successful_matches < 1000:
         print("Match added!")
 
         matchfile = open("correct_matches.txt", "a")
-        print(match_id, file=matchfile)
+        print(str(match_id) + " " +
+              str(datetime.datetime.now().time()), file=matchfile)
         matchfile.close()
 
         if(successful_matches % 200 == 0):
