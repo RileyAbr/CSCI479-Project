@@ -3,7 +3,7 @@ library(arules)
 X = read.table("C:/Users/Matthew Martin/Documents/School/Data Mining/Project/win_transactions.txt",header = TRUE)
 n = dim(X)[1]
 Xp <- as(as.matrix(X), "itemMatrix")
-itemSetsX <- apriori(Xp, parameter = list(support= 0.02, target="frequent"))
+itemSetsX <- apriori(Xp, parameter = list(support= 0.01, target="frequent"))
 
 d = length(itemSetsX) #Number of frequent itemsets
 outMatrix = matrix(0,n,d) #trans and frequent itemset.
@@ -23,7 +23,7 @@ for(i in 1:d){
 Xneg = read.table("C:/Users/Matthew Martin/Documents/School/Data Mining/Project/loss_transactions.txt",header = TRUE)
 nneg = dim(Xneg)[1]
 Xn <- as(as.matrix(Xneg), "itemMatrix")
-itemSetsXn <- apriori(Xn, parameter = list(support= 0.05, target="frequent"))
+itemSetsXn <- apriori(Xn, parameter = list(support= 0.01, target="frequent"))
 
 d = length(itemSetsXn) #Number of frequent itemsets
 outMatrixNeg = matrix(0,nneg,d)
