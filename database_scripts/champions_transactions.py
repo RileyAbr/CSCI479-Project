@@ -3,16 +3,13 @@ import json
 from collections import defaultdict
 import pymongo
 import cassiopeia as cass
-from DBKEYS import user, passcode
+from DBKEYS import database_client
 from RIOTAPIKEY import key
 
 RIOTAPIKEY = key
 
 # Database info
-DBUSER = user
-DBPASS = passcode
-mongoclient = pymongo.MongoClient(
-    "mongodb+srv://%s:%s@ndsu-csci479-5ri0h.mongodb.net/test?retryWrites=true&w=majority" % (DBUSER, DBPASS))
+mongoclient = pymongo.MongoClient(database_client)
 db = mongoclient.frequentoflegends
 win_champs_col = db.winning_champs
 loss_champs_col = db.losing_champs
@@ -24,11 +21,9 @@ RIOTAPIKEY = key
 cass.set_riot_api_key(RIOTAPIKEY)
 cass.set_default_region("NA")
 
-# FUNCTIONS
-
 
 # No. of champions currently in game
-number_of_champions = len(cass.get_champions())
+number_of_champions = 146 #len(cass.get_champions())
 
 # Transaction table of all champions by matches played. The format of the table is as follows:
 #           Champ1 | Champ2 | Champ3| ...

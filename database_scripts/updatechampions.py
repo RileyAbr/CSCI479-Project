@@ -1,12 +1,9 @@
 import requests, json
-
 import pymongo
-import database_scripts.DBKEYS as DBKEYS
+from DBKEYS import database_client
 
 # MongoDB database info
-DBUSER = DBKEYS.user
-DBPASS = DBKEYS.passcode
-mongoclient = pymongo.MongoClient("mongodb+srv://%s:%s@ndsu-csci479-5ri0h.mongodb.net/test?retryWrites=true&w=majority" % (DBUSER, DBPASS))
+mongoclient = pymongo.MongoClient(database_client)
 db = mongoclient.pythoninsert
 col = db.championdata
 cursor = col.find({}).sort("key", 1)
@@ -19,6 +16,7 @@ count = 0
 
 champ_key = 1
 
+# Updates the key value in each champion listing with a new column for the numerical key value
 for document in cursor:
     champ_key_str = document["key"]
     champ_key_int = int(champ_key_str)

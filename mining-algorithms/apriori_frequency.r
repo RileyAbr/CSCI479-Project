@@ -1,6 +1,6 @@
 library(arules)
 
-X = read.table("C:/Users/Matthew Martin/Documents/School/Data Mining/Project/win_transactions.txt",header = TRUE)
+X = read.table("../win_transactions.txt",header = TRUE)
 n = dim(X)[1]
 Xp <- as(as.matrix(X), "itemMatrix")
 itemSetsX <- apriori(Xp, parameter = list(support= 0.01, target="frequent"))
@@ -20,7 +20,7 @@ for(i in 1:d){
   outMatrix[rr,i] = 1
 }
 
-Xneg = read.table("C:/Users/Matthew Martin/Documents/School/Data Mining/Project/loss_transactions.txt",header = TRUE)
+Xneg = read.table("../loss_transactions.txt",header = TRUE)
 nneg = dim(Xneg)[1]
 Xn <- as(as.matrix(Xneg), "itemMatrix")
 itemSetsXn <- apriori(Xn, parameter = list(support= 0.01, target="frequent"))

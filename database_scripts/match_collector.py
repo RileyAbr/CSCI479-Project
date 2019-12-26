@@ -4,14 +4,11 @@ import time
 import datetime
 import pymongo
 import cassiopeia as cass
-from DBKEYS import user, passcode
+from DBKEYS import database_client
 from RIOTAPIKEY import key
 
 # Database info
-DBUSER = user
-DBPASS = passcode
-mongoclient = pymongo.MongoClient(
-    "mongodb+srv://%s:%s@ndsu-csci479-5ri0h.mongodb.net/test?retryWrites=true&w=majority" % (DBUSER, DBPASS))
+mongoclient = pymongo.MongoClient(database_client)
 db = mongoclient.frequentoflegends
 win_champs_col = db.winning_champs
 loss_champs_col = db.losing_champs
@@ -20,7 +17,6 @@ loss_champs_col = db.losing_champs
 RIOTAPIKEY = key
 cass.set_riot_api_key(RIOTAPIKEY)
 cass.set_default_region("NA")
-
 
 # FUNCTIONS
 def get_champions(team):
